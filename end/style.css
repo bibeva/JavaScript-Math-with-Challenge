@@ -4,17 +4,5 @@ body {
   background: rgb(36, 46, 119);
   color: #fff;
   padding: 50px;
-}
-
-h2 {
-  font-family: 'Roboto', sans-serif;
-  font-size: 60px;
-  line-height: 1.4;
-}
-
-p {
-  font-family: 'Roboto', sans-serif;
-  font-size: 40px;
-  line-height: 1.4;
-  font-weight: 400;
+  font: 40px/1.4 'Roboto', sans-serif;
 }
